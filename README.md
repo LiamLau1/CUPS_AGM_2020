@@ -25,14 +25,14 @@
 
 | Role        | Candidates           |
 | ------------- |:-------------:|
-| Co-Chairs | Oscar Emil Sommer,   Wojciech Jankowski,   Julian James,  RON |
-| Secretary | Alma Crasmaru,   Natasha Goodman,   Julian James,   RON |
-| Treasurer | Cindy Wu,   Wojciech Jankowski,   Julian James,   Srushti Sakhardande,   RON |
-| Speaker Liasons | Xy Wang,   Moe Vali,   Wojciech Jankowski,   William Richards,   Julian James,   RON |
-| Sponsorship | Julian James, RON |
-| Events | Cindy Wu,   Jerroy Chang, Xy Wang,   RON |
-| Publicity | Cindy Wu,  Jerroy Chang,    RON |
-| Webmaster | Julian James,   Matthew Zhang, RON |
-| Stash | Srushti Sakhardande, RON |
+| Co-Chairs | Oscar Emil Sommer,   Wojciech Jankowski,   ~Julian James~,  ~RON~ |
+| Secretary | ~Alma Crasmaru~,   Natasha Goodman,  ~Julian James~,   ~RON~ |
+| Treasurer |  Srushti Sakhardande,   RON |
+| Speaker Liasons |~Xy Wang~,   ~Moe Valii~,  William Richards,   Julian James,   ~RON~ |
+| Sponsorship | ~Julian James~, Moe Vali, ~RON~ |
+| Events | Cindy Wu,   Alma Crasmaru, ~Jerroy Chang~, Xy Wang,   RON |
+| Publicity | ~Cindy Wu~,  Jerroy Chang,    ~RON~ |
+| Webmaster | ~Julian James~,   Matthew Zhang, ~RON~ |
+| Stash | ~Srushti Sakhardande~, RON |
 | Filming | RON |
-| General Member | William Richards,   Oliver Normand,   Tommy Tai,    Liam Lau, RON  |
+| General Member | ~William Richards~,   Oliver Normand,   Tommy Tai,  RON  |
