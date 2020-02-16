@@ -30,8 +30,9 @@
 | Treasurer | Cindy Wu,   Wojciech Jankowski,   Julian James,   Srushti Sakhardande,   RON |
 | Speaker Liasons | Xy Wang,   Moe Vali,   Wojciech Jankowski,   William Richards,   Julian James,   RON |
 | Sponsorship | Julian James, RON |
-| Events | Cindy Wu,   Xy Wang,   RON |
-| Publicity | Cindy Wu,   Srushti Sakhardande,   RON |
+| Events | Cindy Wu,   Jerroy Chang, Xy Wang,   RON |
+| Publicity | Cindy Wu,  Jerroy Chang,    RON |
 | Webmaster | Julian James,   Matthew Zhang, RON |
-| Stash | RON |
+| Stash | Srushti Sakhardande, RON |
+| Filming | RON |
 | General Member | William Richards,   Oliver Normand,   Tommy Tai,    Liam Lau, RON  |
