@@ -7,6 +7,8 @@
     - Announcing of budget and expenditures
 * Sponsorship 
     - Situation with sponsors, which do we have to liase with again, and which we are continuing with.
+* Stash
+    - Update on stash numbers and cards
 * Year Recap
     - Garden Party with CUAS, ChemSoc, BioSoc, CUES
     - Fresher Pizza at Pippard
