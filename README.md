@@ -12,8 +12,8 @@
 
 | Role        | Candidates           |
 | ------------- |:-------------:|
-| Co-Chairs | Oscar Emil Sommer,   Wojciech Jankowski,   Julian James,   andRON |
-| Secretary | Alma Crasmaru,   RONatasha Goodman,   Julian James,   RON |
+| Co-Chairs | Oscar Emil Sommer,   Wojciech Jankowski,   Julian James,  RON |
+| Secretary | Alma Crasmaru,   Natasha Goodman,   Julian James,   RON |
 | Treasurer | Cindy Wu,   Wojciech Jankowski,   Julian James,   Srushti Sakhardande,   RON |
 | Speaker Liasons | Xy Wang,   Moe Vali,   Wojciech Jankowski,   William Richards,   Julian James,   RON |
 | Sponsorship | Julian James, RON |
