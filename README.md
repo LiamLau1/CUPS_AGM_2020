@@ -12,6 +12,7 @@
     - Fresher Pizza at Pippard
     - Freshers Fair
     - Pub Crawl
+    - Career's Conference
     - John Cardy Maxwell Talk with the Archimedeans
     - Science Pub Quiz
     - Nobel Laureate Talk this week with Didier
