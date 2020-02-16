@@ -30,7 +30,7 @@
 | Treasurer |  Srushti Sakhardande,   RON |
 | Speaker Liasons |~Xy Wang~,   ~Moe Valii~,  William Richards,   Julian James,   ~RON~ |
 | Sponsorship | ~Julian James~, Moe Vali, ~RON~ |
-| Events | ~Cindy Wu~,  ~Jerroy Chang~, ~Xy Wang~ ,   RON |
+| Events | ~Cindy Wu~,  Alma Crasmaru, ~Jerroy Chang~, ~Xy Wang~ ,   RON |
 | Publicity | ~Cindy Wu~,  Jerroy Chang,    ~RON~ |
 | Webmaster | ~Julian James~,   Matthew Zhang, ~RON~ |
 | Stash | ~Srushti Sakhardande~, RON |
