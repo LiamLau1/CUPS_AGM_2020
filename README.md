@@ -4,8 +4,18 @@
 ## Agenda
 
 * Finances
+    - Announcing of budget and expenditures
 * Sponsorship 
-* Website
+    - Situation with sponsors, which do we have to liase with again, and which we are continuing with.
+* Year Recap
+    - Garden Party with CUAS, ChemSoc, BioSoc, CUES
+    - Fresher Pizza at Pippard
+    - Freshers Fair
+    - Pub Crawl
+    - John Cardy Maxwell Talk with the Archimedeans
+    - Science Pub Quiz
+    - Nobel Laureate Talk this week with Didier
+    - Omega Dinner 
 * Elections
 
 ## Candidates
@@ -19,5 +29,6 @@
 | Sponsorship | Julian James, RON |
 | Events | Cindy Wu,   Xy Wang,   RON |
 | Publicity | Cindy Wu,   Srushti Sakhardande,   RON |
-| Webmaster | Julian James,   RON |
-| General Member | William Richards,   Oliver Normand,   RON  |
+| Webmaster | Julian James,   Matthew Zhang, RON |
+| Stash | RON |
+| General Member | William Richards,   Oliver Normand,   Tommy Tai,    Liam Lau, RON  |
